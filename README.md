@@ -14,4 +14,4 @@ Once the installation proccess has been completed and the user has entered 'npm 
 
 ## GitHub Link
 
-https://github.com/Anthony-D99/Employee-Tracker
+https://github.com/Anthony-D99/E-commerce
